@@ -6,4 +6,4 @@ bot:
   prefix: $
   default_bet: 100
   bonus_multiplier: 5 # bonus = default_bet * multiplier
-  bonus_cooldown: 0.001 # Bonus every x hours
+  bonus_cooldown: 12 # Bonus every x hours
