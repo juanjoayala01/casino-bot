@@ -5,5 +5,5 @@ bot:
     - 554487514011009035
   prefix: $
   default_bet: 100
-  bonus_multiplier: 3 # bonus = default_bet * multiplier
-  bonus_cooldown: 12 # Bonus every x hours
+  bonus_multiplier: 50 # bonus = default_bet * multiplier
+  bonus_cooldown: 3 # Bonus every x hours
