@@ -2,9 +2,8 @@
 bot:
   token: XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXX.XXXXXXXXXXXXXXX-XXXXXXXXXXX
   owner_ids:
-    - 123456789123456789
-    - 987654321987654321
+    - 554487514011009035
   prefix: $
   default_bet: 100
   bonus_multiplier: 5 # bonus = default_bet * multiplier
-  bonus_cooldown: 12 # Bonus every x hours
+  bonus_cooldown: 0.001 # Bonus every x hours
